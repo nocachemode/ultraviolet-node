@@ -1,5 +1,5 @@
 # Ultraviolet-Heroku
-Ultraviolet, now able to deploy to Heroku.
+School is awesome.
 
 [![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/nocachemode/ultraviolet-node)
 
